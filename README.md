@@ -22,18 +22,18 @@ The implementation of this project involves the use of various technologies to a
   - **S3 (Simple Storage Service):** Used for storing employee and visitor images.
   - **Lambda:** Leveraged for serverless computing, particularly in the Registration and Authentication flows.
   - **Rekognition:** Utilized for facial recognition tasks, indexing images, and searching faces.
-  - **DynamoDB:** Chosen as the NoSQL database for storing employee information.
+  - **DynamoDB:** Chosen as the **NoSQL database** for storing employee information.
 
 - **React.js:**
   - Implemented for developing the frontend user interface, allowing user interaction with the system.
 
 - **API Gateway:**
-  - Used to create RESTful APIs, facilitating communication between the frontend and Lambda functions.
+  - Used to create **RESTful APIs**, facilitating communication between the frontend and Lambda functions.
 
 - **IAM (Identity and Access Management):**
-  - Configured to manage access permissions and roles for Lambda functions, API Gateway, and S3 buckets.
+  - Configured to manage access permissions and roles for **Lambda functions, API Gateway, and S3 buckets**.
 
 - **GitHub:**
-  - Employed for version control and collaborative development.
+  - Employed for **version control** and collaborative development.
 
 These technologies collectively enable the seamless execution of the Registration and Authentication flows, ensuring a reliable and secure employee authentication system.
