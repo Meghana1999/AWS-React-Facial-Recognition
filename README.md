@@ -37,3 +37,13 @@ The implementation of this project involves the use of various technologies to a
   - Employed for **version control** and collaborative development.
 
 These technologies collectively enable the seamless execution of the Registration and Authentication flows, ensuring a reliable and secure employee authentication system.
+
+# Output Demo
+
+## Successful Authentication
+
+![Successful Authentication](https://github.com/Meghana1999/AWS-React-Facial-Recognition/blob/main/Successful%20Authentication%20Screenshot.png)
+
+## Failed Authentication (Not an Employee)
+
+![Failed Authentication](https://github.com/Meghana1999/AWS-React-Facial-Recognition/blob/main/Failed%20Authentication%20Screenshot.png)
