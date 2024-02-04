@@ -6,7 +6,7 @@ This project focuses on implementing an AI-based employee authentication system 
 
 ## Architecture Diagram
 
-![Architecture Diagram](insert_your_image_url_here)
+![Architecture Diagram](https://github.com/Meghana1999/AWS-React-Facial-Recognition/blob/main/AWS-React-Faciaol-Recognition-Architecture.jpg)
 
 ## Project Description
 
